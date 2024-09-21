@@ -1,30 +1,30 @@
 name,cost,food,image_color
-Apple,2,2,orange
-Banana,1,1,orange
-Berry,1,1,orange
-Bottle of Rum,3,2,orange
+사과,2,2,orange
+바나나,1,1,orange
+딸기,1,1,orange
+럼주 한 병,3,2,orange
 Cane Sugar,2,1,orange
-Carrot,2,2,orange
+당근,2,2,orange
 Ceviche,3,3,orange
 Chili Pepper,2,1,orange
 Cooked Crab,2,2,orange
-Cooked Meat,3,2,orange
-Egg,1,0,orange
-Frittata,3,3,orange
-Fruit Salad,5,3,orange
-Grilled Fish,3,2,orange
-Lime,2,1,orange
-Milk,1,1,orange
-Milkshake,5,2,orange
-Mushroom,2,1,orange
-Omelette,5,3,orange
-Onion,2,1,orange
-Potato,2,0,orange
-Raw Crab Meat,2,0,orange
-Raw Fish,2,1,orange
-Raw Meat,3,0,orange
+익힌 고기,3,2,orange
+계란,1,0,orange
+프리타타,3,3,orange
+과일 샐러드,5,3,orange
+구운 물고기,3,2,orange
+라임,2,1,orange
+우유,1,1,orange
+밀크쉐이크,5,2,orange
+버섯,2,1,orange
+오믈렛,5,3,orange
+양파,2,1,orange
+감자,2,0,orange
+생 게고기,2,0,orange
+생 물고기,2,1,orange
+생고기,3,0,orange
 Seafood Stew,2,5,orange
-Seaweed,1,1,orange
-Stew,10,10,orange
-Sushi,2,2,orange
+해초,1,1,orange
+스튜,10,10,orange
+초밥,2,2,orange
 Tamago Sushi,2,4,orange
