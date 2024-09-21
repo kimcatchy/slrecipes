@@ -42,7 +42,7 @@ jobs:
       run: |
         python ./build.py
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact
       with:
         # Upload entire repository
         path: 'build'
